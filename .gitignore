@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+pyinterp
+tests/test_lexer
+tests/test_parser
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
